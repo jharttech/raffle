@@ -7,6 +7,6 @@ You will need the number of customers, the name of each customer, and how many e
 
 1. Clone or download the raffle project.
 2. cd into the raffle direcory.
-3. <code>$ make raffle</code>
-4. <code>$ ./raffle</code>
+3. $<code> make raffle</code>
+4. $<code> ./raffle</code>
 
